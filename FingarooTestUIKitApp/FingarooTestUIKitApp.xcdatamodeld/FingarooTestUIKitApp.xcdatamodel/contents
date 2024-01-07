@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="23B92" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Entity" representedClassName="Entity" syncable="YES" codeGenerationType="class">
+        <attribute name="contentImage" optional="YES" attributeType="String"/>
+        <attribute name="postContent" optional="YES" attributeType="String"/>
+        <attribute name="profileImage" optional="YES" attributeType="Binary"/>
+        <attribute name="username" optional="YES" attributeType="String"/>
+        <attribute name="usertag" optional="YES" attributeType="String"/>
+    </entity>
+</model>
